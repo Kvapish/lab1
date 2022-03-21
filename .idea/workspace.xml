@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7eda96-1827-455c-9430-d9d910ead6c6" name="Changes" comment="Задани" />
+    <list default="true" id="4f7eda96-1827-455c-9430-d9d910ead6c6" name="Changes" comment="Задание 58" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647844457826</updated>
-      <workItem from="1647844457828" duration="13924000" />
+      <workItem from="1647844457828" duration="13949000" />
     </task>
     <task id="LOCAL-00001" summary="Задание 83">
       <created>1647849502398</created>
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647858746202</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Задание 58">
+      <created>1647858827680</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647858827680</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +164,7 @@
     <MESSAGE value="Задание 83" />
     <MESSAGE value="Задание 133" />
     <MESSAGE value="Задание 108" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 108" />
+    <MESSAGE value="Задание 58" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 58" />
   </component>
 </project>
