@@ -7,9 +7,10 @@ public class Main
     {
 
        //task83();
-       task108();
+       //task108();
        //task33();
-        //task133();
+        // task133();
+        task58();
     }
     //Известна масса каждого из 12 предметов. Определить массу самого тяжёлого предмета.
     private static void task83() {
@@ -74,6 +75,18 @@ public class Main
         {
             System.out.println("При значении n = "+n+" выражение n^5 + 5n^3 + 4n , не делится на цело на 120 .");
         }
+    }
+
+    //Вычислить сумму при х+x^3/3+х^5/5+...х^11/11 при х=2.
+    private static void task58()
+    {
+        double result=2;
+        for (int x = 2; x <= 11 ; x+=2)
+        {
+
+            result+=(Math.pow(2,(x+1)))/(x+1);
+        }
+        System.out.println(result);
     }
     }
 
