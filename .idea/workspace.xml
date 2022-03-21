@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f7eda96-1827-455c-9430-d9d910ead6c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
@@ -115,11 +113,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647844457826</updated>
-      <workItem from="1647844457828" duration="4599000" />
+      <workItem from="1647844457828" duration="9335000" />
     </task>
+    <task id="LOCAL-00001" summary="Задание 83">
+      <created>1647849502398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647849502398</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задание 83" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 83" />
   </component>
 </project>
