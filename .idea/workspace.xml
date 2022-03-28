@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7eda96-1827-455c-9430-d9d910ead6c6" name="Changes" comment="" />
+    <list default="true" id="4f7eda96-1827-455c-9430-d9d910ead6c6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +83,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -110,7 +114,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647844457826</updated>
-      <workItem from="1647844457828" duration="16074000" />
+      <workItem from="1647844457828" duration="16366000" />
+      <workItem from="1648217416079" duration="272000" />
+      <workItem from="1648311657275" duration="30000" />
+      <workItem from="1648444400155" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="Задание 83">
       <created>1647849502398</created>
@@ -168,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647863768513</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Добавил комментарии">
+      <created>1647863781353</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1647863781353</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
