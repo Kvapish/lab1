@@ -117,7 +117,7 @@
       <workItem from="1647844457828" duration="16366000" />
       <workItem from="1648217416079" duration="272000" />
       <workItem from="1648311657275" duration="30000" />
-      <workItem from="1648444400155" duration="324000" />
+      <workItem from="1648444400155" duration="2853000" />
     </task>
     <task id="LOCAL-00001" summary="Задание 83">
       <created>1647849502398</created>
@@ -182,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647863781353</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Исправил комментарии ,на комментарии от разроботчика.">
+      <created>1648444858362</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1648444858362</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +201,8 @@
     <MESSAGE value="Задание 108" />
     <MESSAGE value="Задание 58" />
     <MESSAGE value="Добавил комментарии" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил комментарии" />
+    <MESSAGE value="Исправил комментарии ,на комментарии от разроботчика." />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправил комментарии ,на комментарии от разроботчика." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

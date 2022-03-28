@@ -1,14 +1,13 @@
 package com.company;
 
-public class Main
-{
+public class Main {
 
     public static void main(String[] args) {
 
         //task83();
-        task108();
+        //task108();
         //task33();
-        //task133();
+        task133();
         //task58();
     }
 
@@ -56,7 +55,7 @@ public class Main
      */
     private static void task33() {
         float result = 1;//Создаем переменную и присваиваем ей значение 1
-        for (float i = (float) 0.1; i <= 10; i += 0.1)//Создаем цыкл
+        for (float i = 0.1f; i <= 10f; i += 0.1f)//Создаем цыкл
         {
             System.out.println((1 + (float) Math.sin(i)));//Выводим сумму каждой скобки по отдельности
             result *= (1 + (float) Math.sin(i));//Перемножаем результаты между собой
@@ -70,9 +69,10 @@ public class Main
     private static void task133() {
         int b = 120;//Создаем переменную и присваиваем ей значение 120
         int n = (int) (Math.random() * 100 + 1);//Создаем рандомное значение в диапозоне 100
-        if ((Math.pow(n, 5) + (5 * Math.pow(n, 3)) + 4 * n) % 120 == 0)//Создаём цыкл
+        double v = Math.pow(n, 5) + (5 * Math.pow(n, 3)) + 4 * n;
+        if (v % 120 == 0)//Создаём цыкл
         {
-            System.out.println("При значении  n = " + n + " , выражение n^5 + 5n^3 + 4n , делится на цело на 120, результат : " + ((Math.pow(n, 5) + (5 * Math.pow(n, 3)) + 4 * n) / 120) + ".");//Просчитываем выводим результат
+            System.out.println("При значении  n = " + n + " , выражение n^5 + 5n^3 + 4n , делится на цело на 120, результат : " + String.format("%10.5f", (v / 120)) + ".");//Просчитываем выводим результат
         } else {
             System.out.println("При значении n = " + n + " выражение n^5 + 5n^3 + 4n , не делится на цело на 120 .");//Если наше выражение при делении не делится на цело на 120,выводим соответствующие сообщение
         }
